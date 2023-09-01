@@ -1,4 +1,4 @@
-# Social-Media-Manager
+# Privacy Policy
 Privacy Policy for Login Dialog & Details.
 I can certainly provide you with a template for a privacy policy, but please note that it's essential to customize it to accurately reflect the data collection and usage practices of your specific app. Here's a basic template to get you started:
 
